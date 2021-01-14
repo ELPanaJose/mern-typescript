@@ -5,5 +5,5 @@
 * Node
 * Mongoose
 
-thank you fazst 
+thank you Fazt
 🙌
